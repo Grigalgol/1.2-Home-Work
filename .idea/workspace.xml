@@ -28,7 +28,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Five">
+  <component name="RunManager" selected="Application.DOPONE">
+    <configuration name="DOPONE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DOPONE" />
+      <module name="1.2 Home Work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Five" />
       <module name="1.2 Home Work" />
@@ -38,13 +45,6 @@
     </configuration>
     <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Four" />
-      <module name="1.2 Home Work" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="One" />
       <module name="1.2 Home Work" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,11 +66,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DOPONE" />
         <item itemvalue="Application.Five" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.Two" />
-        <item itemvalue="Application.One" />
       </list>
     </recent_temporary>
   </component>
